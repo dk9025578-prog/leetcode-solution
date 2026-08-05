@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/dk9025578-prog/leetcode-solution/tree/master/0009-palindrome-number) |
 | [0877-stone-game](https://github.com/dk9025578-prog/leetcode-solution/tree/master/0877-stone-game) |
 ## Minimax
 |  |
