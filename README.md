@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/dk9025578-prog/leetcode-solution/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/dk9025578-prog/leetcode-solution/tree/master/0042-trapping-rain-water) |
+| [0877-stone-game](https://github.com/dk9025578-prog/leetcode-solution/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dk9025578-prog/leetcode-solution/tree/master/0042-trapping-rain-water) |
+| [0877-stone-game](https://github.com/dk9025578-prog/leetcode-solution/tree/master/0877-stone-game) |
 ## Stack
 |  |
 | ------- |
@@ -26,4 +28,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dk9025578-prog/leetcode-solution/tree/master/0042-trapping-rain-water) |
+## Math
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/dk9025578-prog/leetcode-solution/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/dk9025578-prog/leetcode-solution/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/dk9025578-prog/leetcode-solution/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/dk9025578-prog/leetcode-solution/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
