@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dk9025578-prog/leetcode-solution/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/dk9025578-prog/leetcode-solution/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/dk9025578-prog/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0877-stone-game](https://github.com/dk9025578-prog/leetcode-solution/tree/master/0877-stone-game) |
 ## Hash Table
@@ -60,4 +61,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/dk9025578-prog/leetcode-solution/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/dk9025578-prog/leetcode-solution/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/dk9025578-prog/leetcode-solution/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
